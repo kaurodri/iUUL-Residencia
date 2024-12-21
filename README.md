@@ -3,8 +3,6 @@ Curso de Residência em Software **[ Formação Back-End - Node.js / Express ]**
 
 > Ao final do período de nivelamento o residente estará apto a desenvolver APIs REST na linguagem Javascript usando o Node.js/Express e realizar operações em um banco de dados relacional usando o Sequelize.
 
-
-
 ## Unidades → Nivelamento
 <table>
   <tbody align="left">
@@ -37,3 +35,6 @@ Curso de Residência em Software **[ Formação Back-End - Node.js / Express ]**
     </tr>
   </tbody>
 </table>
+
+## Sobre a iUUL
+Inspirada na residência médica, a iUUL oferece programas de residência em desenvolvimento de software. O objetivo é capacitar pessoas na área de tecnologia a curto prazo, com qualidade e alinhadas às demandas do mercado. Seu método de ensino é baseado no construtivismo objetivo, no qual o residente adquire conhecimentos a partir de problemas reais.
